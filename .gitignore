@@ -1,3 +1,11 @@
+
+### EDITOR
+/.vs
+
+### BUILD
+/out
+
+### CMAKE
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
