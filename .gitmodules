@@ -1,0 +1,12 @@
+[submodule "Winter/dep/assimp"]
+	path = Winter/dep/assimp
+	url = https://github.com/assimp/assimp/
+[submodule "Winter/dep/glfw"]
+	path = Winter/dep/glfw
+	url = https://github.com/glfw/glfw
+[submodule "Winter/dep/glm"]
+	path = Winter/dep/glm
+	url = https://github.com/g-truc/glm
+[submodule "Winter/dep/freetype"]
+	path = Winter/dep/freetype
+	url = https://github.com/freetype/freetype.git
